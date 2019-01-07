@@ -1,0 +1,13 @@
+/*my body style goes here*/
+body {background-color:rgba(100, 98, 98, 0.904);
+font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif}
+h1{color:rgb(28, 185, 247);
+ background-color:rgb(39, 37, 37);
+  size:class="xlarge";}
+   h2{color: rgb(113, 171, 247); 
+   background-color: rgb(10, 10, 12);}
+   /*my body style ends here*/
+
+   /*my article style*/
+   h4{color:rgba(109, 196, 10, 0.904); background-color:rgba(77, 71, 71, 0.918); font-family:cambria;}
+   /*my article style ends here*/
